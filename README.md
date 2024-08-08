@@ -3,7 +3,8 @@
 Meu nome é Gabriely Castro
 
 -Estou estudando na Alura(hittps://www.alura.com.br)
--Estou me denselvolvendo na linguagem javascript
+-Estou 
+me desenvolvendo na linguagem javascript
 -Utilizo esse espaço para minha organização e compatilhamento dos meus projetos densenvolvidos 
 
 ###Você entra em contato comigo📫
