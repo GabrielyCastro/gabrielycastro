@@ -1,16 +1,15 @@
-## boas vindas ao meu perfil:
+## boas vindas ao meu perfil👯
 
 Meu nome é Gabriely Castro
 
--Estou estudando na alura
-Here are some ideas to get you started:
+-Estou estudando na Alura(hittps://www.alura.com.br)
+-Estou me denselvolvendo na linguagem javascript
+-Utilizo esse espaço para minha organização e compatilhamento dos meus projetos densenvolvidos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+###Você entra em contato comigo📫
 
+00001124537430sp@aluno.educacao.sp.gov.br
+
+gabrielycastro82
+
+![](https://media1.tenor.com/m/acqJqkkt21QAAAAC/lexa-clexa.gif)
